@@ -7,13 +7,13 @@ import java.util.Scanner;
 
 /**
  *
- * @author PC-LORENZO
+ * @version 1.0
  */
 public class Libro {
              
     public static void main(String[] args) {
         //Inicializar los atributos
-             String titu;
+            String titu;
             String aut;
             int an;
             short pag;
